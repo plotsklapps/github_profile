@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plotsklapps
 - 👀 I’m interested in App Development!
-- 🌱 I’m currently learning Ionic and Flutter.
+- 🌱 I’m currently learning Ionic/Angular and Flutter/Dart.
 - 💞️ I’m looking to collaborate on app development.
 - 📫 How to reach me: @plotsklapps on Insta & Twitter
 
